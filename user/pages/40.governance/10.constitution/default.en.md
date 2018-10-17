@@ -8,7 +8,7 @@ title: "Constitution"
 - [§3. Principles](#principles)
 - [§4. Resources](#resources)
 - [§5. Positions](#positions)
-  - [§5a. Visitor](#visitor)
+  - [§5a. Guest](#guest)
   - [§5b. Volunteer](#volunteer)
   - [§5c. Member](#member)
 - [§6 Evaluation Procedure](#evaluation)
@@ -68,53 +68,54 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
   1. Visitor (§5a),
   1. Volunteer (§5b), and
   1. Member (§5c).
+  
+Visitor
+- A visitor is a person that comes for less than a day and doesn't sleep over.
+- Pre-arranged visits are recommended to avoid disappointment.
+- Spontaneous visits are possible if a member/volunteer is willing to entertain.
+- e.g. neighbour comes over to say hi, Wurzener comes to the Fairteiler, etc.
 
-<a name="Visitor"></a>
+<a name="guest"></a>
 
-#### §5a. Visitor
-1. The position of Visitor is intended for people who simply want to come by and spend some time in the space.
-1. A Visitor may—
-	1. reside in the space and use its resources, and
-	1. participate in Operational Activity.
-1. A person first becomes a Visitor simply by arriving.
-1. A Visitor who wants to stay overnight is required, a visitor who does not stay overnight warmly recommended, to—
-	1. read the [Visitor's Document](/about/visiting), and
-    1. communicate with a resident, preferably a Volunteer or Member, before arriving.
-1. A Visitor implicitly accepts the Constitution and Collective Agreements.
-1. A Visitor is allowed to stay up to two consecutive nights. Before the third night, they need to gather informal agreement among the other residents to stay longer.
-1. A Visitor should be evaluated (§6.) as soon as possible after three weeks (21 days). At their evaluation they may request to—
-  1. continue as a Visitor, or
-  1. progress to Volunteer.
-1. A person ceases to be a Visitor-
-    1. if they leave the space,
-    1. if they progress to Volunteer,
+#### §5a. Guest
+1. A guest is a short-term resident with minimal responsibilities and privileges.
+1. A guest may stay for 3 weeks (21 sleeps).
+1. For a person to become a guest, an in-house volunteer/member must agree to host them for the duration of their intended stay. The host takes responsibility for integrating the guest. Transfer of hosting responsibility should be explicit (e.g. if the current host has to leave).
+1. Guests implicitly accept the Constitution and Collective Agreements by deciding to stay.
+1. Guests are warmly recommended to read the **???**.
+1. For first-time guests (i.e. never evaluated before), a check-in round should be arranged after a week (7 sleeps) by/with their host and 1 or 2 further residents. The check-in round allows questions to be asked and answered, and for positive and negative feedback to be exchanged.  
+1. A guest should be evaluated (§6.) as soon as possible after 3 weeks (21 sleeps). At their evaluation they may request to remain/become a—
+  1. guest, or
+  1. volunteer.
+1. A person ceases to be a guest-
+  1. if they become a Volunteer,
 	1. if decided upon by Conflict Resolution by Intervention (§10c.)
 
 <a name="volunteer"></a>
 
 #### §5b. Volunteer
-1. The position of Volunteer is intended for people who are already involved and wish to become further committed.
-1. A Volunteer may—
-	1. reside in the space and use its resources,
-	1. participate in Operational Activity and change the Collective Agreements, and
+1. A medium-term resident with median responsibilities and privileges
+1. A volunteer may—
+	1. stay for 2 months (60 days since becoming a volunteer),
+	1. participate in changing the Collective Agreements, and
 	1. vote on other people becoming Volunteers.
 1. A Volunteer should—
 	1. assume some responsibility for the space, and
 	1. contribute to Wurzen and/or the wider world.
-1. A Volunteer should be evaluated (§6.) as soon as possible after 2 months (60 days) elapsed since their last evaluation. At their evaluation they may request to—
+1. A Volunteer should be evaluated (§6.) as soon as possible after 2 months (60 days since becoming a volunteer). At their evaluation they may request to—
   1. return to Visitor,
   1. continue as a Volunteer, or
   1. progress to Member.
 1. A Volunteer may return to Visitor at any point.
 1. A person ceases to be a Volunteer—
 	1. if they return to Visitor or progress to Member,
-    1. if they did not spend time in the space for 3 months,
+  1. if absent did not spend time in the space for 3 months,
 	1. if decided upon by Conflict Resolution by Intervention (§10c.)
 
 <a name="member"></a>
 
 #### §5c. Member
-1. The position of Member is intended for individuals who are familiar with the project and wish to commit to it.
+1. A long-term resident with maximal responsibilities and privileges
 1. A Member may—
 	1. reside in the space and use the other Resources,
 	1. participate in Operational Activity, Collective Change and Constitutional Change,
@@ -133,6 +134,10 @@ Kanthaus is an open-entry common-space dedicated to the common good. It is gover
 	1. if they return to being a Visitor or Volunteer,
     1. if they did not spend time in the space for 6 months,
 	1. if decided upon by Conflict Resolution by Intervention (§10c.)
+  
+Groups
+- Groups are treated like a visitor (if less than a day) or like a guest (if more than a day)
+- 
 
 <a name="evaluation"></a>
 
